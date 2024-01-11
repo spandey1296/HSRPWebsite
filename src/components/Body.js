@@ -53,7 +53,7 @@ const Body = () => {
 
   async function saveFormData(data) {
     let res = await axios.post(
-        "https://hsrp-9ca53947876f.herokuapp.com/api/v1/hrsp/vehicle/upload",
+        "http://65.2.5.54:3008/api/v1/hrsp/vehicle/upload",
       data
     );
 
