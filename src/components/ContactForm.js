@@ -50,7 +50,7 @@ const ContactForm = () => {
     }
   };
   async function saveFormData(data){
-   let res =  await axios.post('https://hsrp-9ca53947876f.herokuapp.com/api/v1/hrsp/vehicle/contact-us',data)
+   let res =  await axios.post('http://65.2.5.54:3008/api/v1/hrsp/vehicle/contact-us',data)
    if(res?.data?.code==200){
     toast.success("Success Notification !", {
       position: toast.POSITION.TOP_RIGHT,
