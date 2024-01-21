@@ -223,7 +223,7 @@ const Body = () => {
                 </InputGroup>
                 <br />
                 <div className="btn-33">
-                <button type="submit" class="button-33" role="button"> Clik To Submit</button>
+                <button type="submit" class="button-33" role="button"> Click</button>
 
                 </div>
                 {/* <Button  variant="primary">
