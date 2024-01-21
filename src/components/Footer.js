@@ -55,7 +55,7 @@ const Footer = () => {
           color: "white",
         }}
       >
-        HSRP Help © 2023. All Rights Reserved.
+        HSRP Help © 2024. All Rights Reserved.
       </h6>
     </>
   );
