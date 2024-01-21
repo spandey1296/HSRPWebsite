@@ -18,7 +18,7 @@ const PrivacyPolicy = () => {
           {/* <Card.Title>Refund Policy</Card.Title> */}
           {/* <Card.Subtitle style={{fontSize:'20px'}} className="mb-2 text-muted">Card Subtitle</Card.Subtitle> */}
           <Card.Text>
-            Welcome to [HSRP Guide Website]! This Privacy Policy outlines how we
+            Welcome to HSRP Guide Website! This Privacy Policy outlines how we
             collect, use, disclose, and protect the information you provide
             while using our website to guide you through the process of booking
             High-Security Registration Plates (HSRP) and stay updated with the
@@ -208,12 +208,11 @@ const PrivacyPolicy = () => {
 
           <Card.Text>
             If you have any questions or concerns about our Privacy Policy,
-            please contact us at [Contact Email Address].
+            please contact us at support@indiahsrp.online
             <br />
-            Thank you for choosing [HSRP Guide Website]. We are committed to
+            Thank you for choosing HSRP Guide Website. We are committed to
             providing a secure and informative platform for your HSRP booking
-            needs and keeping you updated with the latest news. [HSRP Guide
-            Website]
+            needs and keeping you updated with the latest news.
           </Card.Text>
         </Card.Body>
       </Card>

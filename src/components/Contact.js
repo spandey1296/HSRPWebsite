@@ -24,15 +24,14 @@ const Contact = () => {
           <Card.Title>Customer Support:</Card.Title>
           <Card.Text>
             Email: support@indiahsrp.online<br/>
-            Phone: [Your Customer Support Phone Number]<br/>
             Hours of Operation: 24*7<br/>
           </Card.Text>
          
           <Card.Title>Visit Us:</Card.Title>
           <Card.Text>If you prefer an in-person visit, our office is located at:<br/>
-[Your Company Address]</Card.Text>
+         305 DLF Corperate Green Sector 74A Gurgaon, Haryana 122004</Card.Text>
           <Card.Title>Connect With Us:</Card.Title>
-          <Card.Text>Follow us on [Social Media Platforms] for the latest updates, news, and promotions.</Card.Text>
+          <Card.Text>Follow us on Social Media Platforms for the latest updates, news, and promotions.</Card.Text>
           <Card.Title>Quick Contact Form:</Card.Title>
           <Card.Text>If you have a specific question or request, please fill out the form below, and we will get back to you as soon as possible.</Card.Text>
           </Card.Body>

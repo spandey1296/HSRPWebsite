@@ -18,7 +18,7 @@ const TermConditions = () => {
           {/* <Card.Title>Refund Policy</Card.Title> */}
           {/* <Card.Subtitle style={{fontSize:'20px'}} className="mb-2 text-muted">Card Subtitle</Card.Subtitle> */}
           <Card.Text>
-            Welcome to [HSRP Guide Website]. By accessing or using our website,
+            Welcome to HSRP Guide Website. By accessing or using our website,
             you agree to comply with and be bound by the following terms and
             conditions. If you disagree with any part of these terms, please do
             not use our website.
@@ -29,7 +29,7 @@ const TermConditions = () => {
           <br />
 
           <Card.Text>
-            a. By using [HSRP Guide Website], you agree to abide by these Terms
+            a. By using HSRP Guide Website, you agree to abide by these Terms
             and Conditions and our Privacy Policy.
           </Card.Text>
         </Card.Body>
@@ -50,7 +50,7 @@ const TermConditions = () => {
           <br />
 
           <Card.Text>
-            a. [HSRP Guide Website] provides guidance and information related to
+            a. HSRP Guide Website provides guidance and information related to
             the HSRP booking process. We are not responsible for the actual HSRP
             booking, which is conducted through official channels.
           </Card.Text>
@@ -64,8 +64,8 @@ const TermConditions = () => {
           <br />
 
           <Card.Text>
-            a. The content on [HSRP Guide Website], including text, graphics,
-            logos, images, and software, is the property of [HSRP Guide Website]
+            a. The content on HSRP Guide Website, including text, graphics,
+            logos, images, and software, is the property of HSRP Guide Website
             and is protected by applicable intellectual property laws
           </Card.Text>
           <Card.Text>
@@ -78,13 +78,13 @@ const TermConditions = () => {
           <br />
 
           <Card.Text>
-            a. [HSRP Guide Website] may contain links to third-party websites.
+            a. HSRP Guide Website may contain links to third-party websites.
             We do not endorse or control the content of these websites and are
             not responsible for their practices or policies.
           </Card.Text>
           <Card.Text>
-            b. Users access external links at their own risk, and [HSRP Guide
-            Website] is not liable for any damages or losses incurred.
+            b. Users access external links at their own risk, and HSRP Guide
+            Website is not liable for any damages or losses incurred.
           </Card.Text>
         </Card.Body>
         <Card.Body>
@@ -92,7 +92,7 @@ const TermConditions = () => {
           <br />
 
           <Card.Text>
-            a. [HSRP Guide Website] reserves the right to terminate or suspend
+            a. HSRP Guide Website reserves the right to terminate or suspend
             access to the website, without notice, for any reason, including a
             breach of these terms.
           </Card.Text>
@@ -102,7 +102,7 @@ const TermConditions = () => {
           <br />
 
           <Card.Text>
-            a. [HSRP Guide Website] is not liable for any direct, indirect,
+            a. HSRP Guide Website is not liable for any direct, indirect,
             incidental, consequential, or punitive damages arising out of your
             access to or use of the website.
           </Card.Text>
@@ -112,7 +112,7 @@ const TermConditions = () => {
           <br />
 
           <Card.Text>
-            a. [HSRP Guide Website] may revise these terms at any time without
+            a. HSRP Guide Website may revise these terms at any time without
             notice. Users are responsible for reviewing the terms periodically.
           </Card.Text>
         </Card.Body>
@@ -122,7 +122,7 @@ const TermConditions = () => {
 
           <Card.Text>
             a. These terms and conditions are governed by and construed in
-            accordance with the laws of [Your Jurisdiction].
+            accordance with the laws of Your Jurisdiction.
           </Card.Text>
         </Card.Body>
         <Card.Body>
@@ -131,15 +131,15 @@ const TermConditions = () => {
 
           <Card.Text>
             a. If you have any questions or concerns regarding these terms and
-            conditions, please contact us at [Contact Email Address].
+            conditions, please contact us at Contact Email Address.
           </Card.Text>
           <br />
           <Card.Text>
-            Thank you for using [HSRP Guide Website]. We appreciate your
+            Thank you for using HSRP Guide Website. We appreciate your
             cooperation and hope our website enhances your experience with the
             HSRP booking process.
             <br />
-            [HSRP Guide Website]
+            HSRP Guide Website
           </Card.Text>
         </Card.Body>
       </Card>
