@@ -64,7 +64,8 @@ const Body = () => {
   }
 
   function callMeToRedirectPayementPage() {
-    window.open("/payment");
+   // window.open("/payment");
+    window.location.href = '/payment';
   }
 
   const handleSubmit = (event) => {
