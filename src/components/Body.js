@@ -5,6 +5,7 @@ import Button from "react-bootstrap/Button";
 import SmallCheckIcon from "../utils/SmallCheckIcon";
 import BenifitsOfHSRP from "./BenifitsOfHSRP";
 import Process from "./process";
+import Payment from "./Payment"
 import Footer from "./Footer";
 import { useEffect, useState } from "react";
 import axios from "axios";
@@ -19,7 +20,7 @@ const Body = () => {
   const [name, setUserName] = useState("");
   const [mobile, setMobileNumber] = useState("");
   const [emailId, setEmailId] = useState("");
-
+ 
   const indianStates = [
     "Andhra Pradesh",
     "Arunachal Pradesh",
@@ -67,7 +68,7 @@ const Body = () => {
 
   function callMeToRedirectPayementPage() {
     // window.open("/payment");
-     window.location.href = '/payment';
+    // window.location.href = '/payment';
   }
 
   const handleSubmit = (event) => {
@@ -80,11 +81,12 @@ const Body = () => {
 
     setValidated(true);
     if (form.checkValidity()) {
-      let obj = { plateNumber, state, name, mobile, emailId, vehicleNumber };
-     // saveFormData(obj);
-      callMeToRedirectPayementPage();
+      setBool(true)
+      // let obj = { plateNumber, state, name, mobile, emailId, vehicleNumber };
+      // saveFormData(obj);
+      // callMeToRedirectPayementPage();
       form.reset();
-     // setValidated(false);
+      setValidated(false);
     }
   };
   function setPlatNum(number) {
