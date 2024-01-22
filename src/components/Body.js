@@ -67,7 +67,7 @@ const Body = () => {
 
   function callMeToRedirectPayementPage() {
     // window.open("/payment");
-    // window.location.href = '/payment';
+     window.location.href = '/payment';
   }
 
   const handleSubmit = (event) => {
@@ -81,10 +81,10 @@ const Body = () => {
     setValidated(true);
     if (form.checkValidity()) {
       let obj = { plateNumber, state, name, mobile, emailId, vehicleNumber };
-      saveFormData(obj);
+     // saveFormData(obj);
       callMeToRedirectPayementPage();
       form.reset();
-      setValidated(false);
+     // setValidated(false);
     }
   };
   function setPlatNum(number) {
