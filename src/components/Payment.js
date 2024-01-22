@@ -19,7 +19,7 @@ const Payment = () => {
           </h3>
         </div>
         <div className="qr-code-container">
-          <img src="https://hsrphelp.site/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-15-at-19.58.37_17c64932.jpg" />
+          <img src="https://github.com/amanguptaofficial/HSRPWebsite/assets/50301680/b55c2c7c-3e88-448f-8431-ecd3fb4c4d32" />
         </div>
       </div>
       <Footer />
